@@ -62,7 +62,7 @@ span{
     font-size: .8rem;
     color: rgba(240, 255, 255, 0.63);
 }
-@media screen and (max-width: 375px){
+@media screen and (max-width: 500px){
     .container{
         display: flex;
         flex-direction: column;
